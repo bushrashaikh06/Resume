@@ -98,6 +98,7 @@ Abeda Inamdar Senior College, Pune (2019–2021)
  📜 Certifications
 
 - Data Analytics Virtual Job Simulation – Deloitte  
+- GenAI Powered Data Analytics Job Simulation - Tata
 - Artificial Intelligence and Data Analytics – NIIT Foundation  
 
 ---
