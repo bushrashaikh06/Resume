@@ -27,7 +27,7 @@ Detail-oriented Computer Science graduate with strong analytical skills and hand
 - Python (Pandas, NumPy, Matplotlib)
 
  📈 Data Analysis & Visualization Tools
-- Microsoft Excel
+- Microsoft Excel 
 - Power BI
 - Tableau
 - Google Sheets
